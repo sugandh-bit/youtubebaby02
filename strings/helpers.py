@@ -180,5 +180,5 @@ HELP_17 = """
 /leaveall4 - for assis 4
 /leaveall5 - for assis 5
 
-
+<b>❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ ➥</b> <b><a href='https://t.me/innocent_xd_babe'>˹➻❥⏤͟͞𝐀𝐀𝐓𝐌𝐀💸⎯ꨄ˼</a></b>
 """
