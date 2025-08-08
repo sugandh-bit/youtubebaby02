@@ -9,7 +9,7 @@ HELP_1 = """
 ❍ /player : ɢєᴛ ᴧ ɪηᴛєʀᴧᴄᴛɪᴠє ᴩʟᴧʏєʀ ᴩᴧηєʟ
 ❍ /queue : sʜσᴡs ᴛʜє ǫυєυєᴅ ᴛʀᴧᴄᴋs ʟɪsᴛ
 
-<b>❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ ➥</b> <b><a href='https://t.me/RockyXSupport'>˹тєᴧϻ 𝐑𝝾𝗰𝝹𝝲˼</a></b>
+<b>❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ ➥</b> <b><a href='https://t.me/MusiclineTechTeam'>˹➻❥⏤͟͞𝐀𝐀𝐓𝐌𝐀💸⎯ꨄ˼</a></b>
 """
 
 HELP_2 = """
@@ -20,7 +20,7 @@ HELP_2 = """
 ❍ /unauth [υsєʀηᴧϻє/υsєʀ_ɪᴅ] : ʀєϻσᴠє ᴧ ᴧυᴛʜ υsєʀs ғʀσϻ ᴛʜє ᴧυᴛʜ υsєʀs ʟɪsᴛ
 ❍ /authusers : sʜσᴡs ᴛʜє ʟɪsᴛ σғ ᴧυᴛʜ υsєʀs σғ ᴛʜє ɢʀσυᴩ
 
-<b>❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ ➥</b> <b><a href='https://t.me/RockyXSupport'>˹тєᴧϻ 𝐑𝝾𝗰𝝹𝝲˼</a></b>
+<b>❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ ➥</b> <b><a href='https://t.me/MusiclineTechTeam'>˹➻❥⏤͟͞𝐀𝐀𝐓𝐌𝐀💸⎯ꨄ˼</a></b>
 """
 
 HELP_3 = """
