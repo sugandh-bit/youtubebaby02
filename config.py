@@ -22,7 +22,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 600))
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", None))
 
 API_URL = getenv("API_URL", 'https://api.thequickearn.xyz') #youtube song url
-API_KEY = getenv("API_KEY", "30DxNexGenBotse5d872") # youtube song api key, get it from https://t.me/MR_ROCKY_TZ
+API_KEY = getenv("API_KEY", "30DxNexGenBots20b4bc") # youtube song api key, get it from https://t.me/MR_ROCKY_TZ
 
 # Get this value from @MissRose_Bot on Telegram by /id
 OWNER_ID = int(getenv("OWNER_ID", None)) 
